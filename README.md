@@ -1,4 +1,3 @@
-## Hi there 👋
 # Vitor Santos
 
 **`Android Developer / Desenvolvedor Android`**
@@ -79,7 +78,7 @@ Me chamo Vitor Santos. Sou formado em Análise e Desenvolvimento de Sistemas. So
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitupontojpeg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitupontojpeg&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
